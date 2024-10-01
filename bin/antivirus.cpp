@@ -31,8 +31,8 @@ int solve ()
 int main()
 {
     // Cncomment the following lines if you want to read/write from files
-    freopen("antivirus_input_2.txt", "r", stdin);
-    freopen("antivirus_output_2.txt", "w", stdout);
+    freopen("antivirus_input_1.txt", "r", stdin);
+    freopen("antivirus_output_1.txt", "w", stdout);
 
     // Input
     cin >> T;
